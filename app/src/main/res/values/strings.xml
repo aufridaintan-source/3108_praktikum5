@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aufrida_3108</string>
+
+    <string name="text_fragment">Ini adalah Halaman Dashboard</string>
+    <string-array name="nama_array_kota">
+        <item>Yogyakarta</item>
+        <item>Jakarta</item>
+        <item>Surabaya</item>
+        <item>Bandung</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
