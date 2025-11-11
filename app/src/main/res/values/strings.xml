@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Aufrida_3108</string>
+    <string name="teks1">Login</string>
+    <string name="register">Belum punya akun? Daftar disini</string>
 
     <string name="text_fragment">Ini adalah Halaman Dashboard</string>
     <string-array name="nama_array_kota">
